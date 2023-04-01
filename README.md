@@ -1,2 +1,2 @@
 # Minecraft_education
-for a minecraft educattion plan
+for a **minecraft** educattion plan
